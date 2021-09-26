@@ -54,7 +54,7 @@ table{
 table caption{
   width: 120%;
   text-align: center;
-  caption-side:bottom
+  caption-side:bottom;
 }
 th, td {
   padding: 8px;

@@ -60,13 +60,14 @@ th, td {
   text-align: left;
   border-bottom: 1px solid #DDD;
 }
-tr:hover {
-  border-bottom: 2px solid #ddd;
-  background-color: #D6EEEE;
-}
 
 a:link {
   color: blue;
+}
+/*
+tr:hover {
+  border-bottom: 2px solid #ddd;
+  background-color: #D6EEEE;
 }
 
 a:visited {

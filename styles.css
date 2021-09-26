@@ -49,8 +49,13 @@ table{
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
+  width: 20%;
 }
-
+table caption{
+  width: 120%;
+  text-align: center;
+  caption-side:bottom
+}
 th, td {
   padding: 8px;
   text-align: left;
